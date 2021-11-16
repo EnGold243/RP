@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RolePlay</string>
+    <string-array name="setting">
+        <item>СЕТТИНГ</item>
+        <item>Фэнтэзи</item>
+        <item>Реальная жизнь</item>
+        <item>Фантастика</item>
+    </string-array>
+</resources>
